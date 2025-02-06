@@ -1,6 +1,6 @@
 
 
-Children's Game in Python with Pygame
+Kids Game in Python with Pygame
 
 
 

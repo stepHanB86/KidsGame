@@ -20,17 +20,6 @@ New features and improvements are planned.
 
 
 
-## **Installation**
-
-To run the game, you need Python and Pygame. Install the required dependencies with:
-
-pip install pygame
-
-Start the game with:
-
-python main.py
-
-
 
 ## **Planned Improvements**
 
